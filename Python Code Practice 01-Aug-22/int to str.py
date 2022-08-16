@@ -7,8 +7,9 @@
 #print("Int to Str :",type(b))
 
 roll_no = str(121)
-print(type(roll_no))
+print(type(roll_no)) #Method1
 
+roll_no = 121 ; b = str(roll_no) ; print(type(b)) #Method 2
 
 #num = 10  
 # check  and print type of num variable
