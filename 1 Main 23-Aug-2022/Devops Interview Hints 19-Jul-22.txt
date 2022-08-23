@@ -1,0 +1,54 @@
+My day to day activities are
+Complicated task
+001 Devops Pipeline & Devops Tools
+002 Git & Github -->Difference b/w git fetch & git pull -->What is Git log?
+003 CI pipeline job between github and jenkin pipeline-->CI/CD & Automated
+004 GitOps
+005 CD Pipeline: Push Vs Pull Model
+006 Jenkins -->Pipeline (Declarative / Scripted)-->Jenkins (After Login Options)-->Jenkins Shared Library
+007 What is the controller and agent in JENKINS? Jenkins Master & Salve
+008 How do you handle security in Jenkins?
+009 How is your Jenkins setup done / managed?
+010 Poll SCM Vs Webhook
+011 Selenium-->Selenium Integration With Jenkins, Git, Github
+012 Ansible (Modules / Ansible Playbooks / Ansible Usage For Docker / 
+	Ansible Tower / ANSIBLE JENKINS INTEGRATION)
+013 ANSIBLE AUTOMATION - LAUNCHING DOCKER CONTAINERS USING ANSIBLE
+014 Container (Containerization) --> Advantages of Containers-->Container Orchestration
+015 Virtualization or Hypervisor (VM)-->2 types of hypervisor: 1. Bare Metal  2. Hosted-->Disadv of Hypervisor
+016 Difference of Containerization and Virtualization
+017 Docker
+017 Docker Swarm -->Docker DAEMON -->Docker Swarm Features -->Docker Swarm Node
+
+. 
+Controler and agents/Jenkins Master & Slave... CI/CD Automated, Poll Scm/Webhook
+
+8 Kubernetes -->POD
+9 Difference between Docker and Kubernetes
+10 Difference between Kubernetes and Docker Swarm
+11 EKS (AWS / Elastic Kubernetes Service)
+
+13 Devops KPIs
+14 Local and Remote Artifact (Central Artifact Repo is Maven)
+15 Secret Engine
+16 SDLC (software Development Life Cycle)
+17 SDLC Different Model (Agile, Kanban, Waterfall, Scrum)
+18 Cluster (OS redundant) (Two way Of Cluster) (4 types of clusters)
+19 Kernel
+20 API (Application Programming Interfaces)
+21 ELK (ElasticSearch, Logstash, Kibana)
+22 Grafana
+23 Agile
+23 Webhook
+24 Build Tool & Maven
+25 Sonarqube
+
+NAT
+
+My Explanation & Promise
+
+ 
+ SWOT (Strenght, Weaknesses, Opportunities and Threats)
+ Basic Linux Commands
+
+
