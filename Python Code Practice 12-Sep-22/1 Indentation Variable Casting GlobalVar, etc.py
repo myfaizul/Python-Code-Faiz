@@ -108,6 +108,7 @@ x = 5
 y = "John"
 print(x, y,"\n")
 
+#Global Variable
 car = 'Hyundai'  #global variable
 color = 'Grey'  #global Variable
 def myfunc():
