@@ -1,4 +1,5 @@
-#set{} / Useful for mathematical calculation like union, intersection, symmetric difference, etc../ It won't take duplicate value, It will delete duplicate value automatically 
+#set{} / Useful for mathematical calculation like union, intersection, symmetric difference, etc../ It won't take duplicate value, 
+# It will delete duplicate value automatically 
 # / It will print randomly / We can add, & remove the value
 # Set is a collection which is unordered and unindexed. No duplicate members
 

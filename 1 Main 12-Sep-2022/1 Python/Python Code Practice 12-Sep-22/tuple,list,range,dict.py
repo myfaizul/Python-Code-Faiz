@@ -67,6 +67,3 @@ emp=employee1["Shahul"][1]
 print("Shaul Age is" ,emp)
 print("ID00001 Age is", emp)
 print("\n")
-
-
-
